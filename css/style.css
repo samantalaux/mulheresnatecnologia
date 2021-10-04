@@ -1,0 +1,95 @@
+body{
+  text-align: center;
+  font-family: Open Sans, sans-serif;
+  background-color: #fae6f5;
+  color: #b5afa5;
+  margin: 0;
+}
+
+h1{
+  color: #eda172; 
+  font-size: 60px;
+  font-weight: 300;
+}
+h2{
+  color: #eda172;
+  font-size: 40px;
+}
+h3 {
+  font-size: 27px;
+  font-style: italic;
+}
+.titulo-crianca{
+  color: #d063e6;
+  //font-size: 22px;
+}
+.titulo-juventude{
+  color: #e65a7d;
+  //font-size: 22px;
+}
+.titulo-adulta{
+  color: #c7348c;
+  //font-size: 22px;
+}
+p{
+  font-size: 23px;
+  line-height: 1.5;
+}
+img{ 
+  width: 100%;
+}
+section{
+  //background-color: #ffffff;
+  max-width: 60%;
+  margin: 0 auto;
+ }
+section section{
+  width: 100%;
+}
+ul{
+  list-style-type: none;
+  line-height: 2;
+  margin-top: 40px;
+  padding-left: 0;
+}
+a{
+  text-decoration: none;
+  color: #1dadad;
+  font-weight: 700;
+  line-height: 2.0;
+}
+.principal a{
+  color: black;
+  font-size: 23px;
+  font-weight: 300;
+}
+.principal{
+  background: hsl(330, 100%, 71%);
+  height: 40px;
+  max-width: 60%;
+  margin: 0 auto;
+
+}
+.principal li{
+  display: inline-block;
+  line-height: 2.5;
+  margin: 0 89px;
+}
+h4{
+  color: black;
+  font-size: 18px;
+}
+input{
+  margin-top: auto;
+}
+label{
+  color: black;
+}
+button{
+  color: #41f341;
+  border: solid 1px;
+  line-height: 2;
+  padding: 0 auto;
+  border-radius: 3px;
+  margin: 30px;
+  }
